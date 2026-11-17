@@ -1,9 +1,13 @@
-numpy
 pandas
 torch
+optuna
+matplotlib
 scipy
 scikit-learn
-matplotlib
+wandb
+shap
+seaborn
+openpyxl
 tqdm
-ipynb
-jupyter
+gdown
+ipython
